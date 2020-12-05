@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "CarbonText-Regular";
+  src: url("./fonts/CarbonText-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/CarbonText-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CarbonText-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CarbonText-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CarbonText-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CarbonText-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CarbonText-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
